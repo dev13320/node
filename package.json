@@ -1,0 +1,25 @@
+{
+  "name": "testoccurence",
+  "version": "1.0.0",
+  "description": "chercher une chaine",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev13320/node.git"
+  },
+  "keywords": [
+    "string",
+    "contains",
+    "a",
+    "substring"
+  ],
+  "author": "Germain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev13320/node/issues"
+  },
+  "homepage": "https://github.com/dev13320/node#readme"
+}
